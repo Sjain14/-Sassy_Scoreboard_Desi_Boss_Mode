@@ -373,7 +373,7 @@ STRICT RULES:
     console.error("[boss-reaction] Gemini API error:", error);
 
     // Artificial Latency: Simulate AI thinking delay to mask fallback
-    await new Promise((resolve) => setTimeout(resolve, 1400));
+    await new Promise((resolve) => setTimeout(resolve, 800));
 
     // Contextual Fallback Engine
     const fallback = getDynamicFallback(requestBody);
