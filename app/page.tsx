@@ -52,9 +52,20 @@ function SectionLabel({ children }: { children: React.ReactNode }) {
 
 // ── MAIN PAGE ────────────────────────────────────────────────────────────────
 export default function Home() {
-  // ── Hydration guard: render nothing on the server, full UI on the client ──
+  // ── Hydration guard & Onboarding Tooltips ──
   const [isMounted, setIsMounted] = useState(false);
-  useEffect(() => { setIsMounted(true); }, []);
+  const [showGuide, setShowGuide] = useState(false);
+
+  useEffect(() => { 
+    setIsMounted(true); 
+
+    if (!localStorage.getItem('guideSeen')) {
+      setShowGuide(true);
+      localStorage.setItem('guideSeen', 'true');
+      const t = setTimeout(() => setShowGuide(false), 4000);
+      return () => clearTimeout(t);
+    }
+  }, []);
 
   // ── Zustand selectors ──
   const totalRuns       = useGameStore((s) => s.totalRuns);
@@ -145,33 +156,44 @@ export default function Home() {
             </span>
           </div>
 
-          <button
-            onClick={toggleDemo}
-            className="font-display pulse-live"
-            style={{
-              padding: "6px 16px",
-              background: isDemoRunning 
-                  ? "transparent" 
-                  : "linear-gradient(90deg, rgba(34, 197, 94, 0.15), rgba(21, 128, 61, 0.15))",
-              border: isDemoRunning 
-                  ? "1px solid rgba(239, 68, 68, 0.6)" 
-                  : "1px solid rgba(34, 197, 94, 0.4)",
-              boxShadow: isDemoRunning 
-                  ? "0 0 16px rgba(239, 68, 68, 0.2)" 
-                  : "0 0 16px rgba(34, 197, 94, 0.3)",
-              color: isDemoRunning ? "#ef4444" : "#4ade80",
-              borderRadius: "4px",
-              cursor: "pointer",
-              fontWeight: 800,
-              fontSize: "12px",
-              letterSpacing: "0.1em",
-              display: "flex",
-              alignItems: "center",
-              gap: "8px",
-            }}
-          >
-            {isDemoRunning ? "🛑 STOP & RESET" : "▶ START 12-BALL CLIMAX (GT vs DC)"}
-          </button>
+          <div style={{ position: "relative" }}>
+            <button
+              onClick={toggleDemo}
+              className="font-display pulse-live"
+              style={{
+                padding: "6px 16px",
+                background: isDemoRunning 
+                    ? "transparent" 
+                    : "linear-gradient(90deg, rgba(34, 197, 94, 0.15), rgba(21, 128, 61, 0.15))",
+                border: isDemoRunning 
+                    ? "1px solid rgba(239, 68, 68, 0.6)" 
+                    : "1px solid rgba(34, 197, 94, 0.4)",
+                boxShadow: isDemoRunning 
+                    ? "0 0 16px rgba(239, 68, 68, 0.2)" 
+                    : "0 0 16px rgba(34, 197, 94, 0.3)",
+                color: isDemoRunning ? "#ef4444" : "#4ade80",
+                borderRadius: "4px",
+                cursor: "pointer",
+                fontWeight: 800,
+                fontSize: "12px",
+                letterSpacing: "0.1em",
+                display: "flex",
+                alignItems: "center",
+                gap: "8px",
+              }}
+            >
+              {isDemoRunning ? "🛑 STOP & RESET" : "▶ START 12-BALL CLIMAX (GT vs DC)"}
+            </button>
+            {showGuide && (
+              <div 
+                onClick={() => setShowGuide(false)}
+                className="absolute z-50 bg-slate-900/90 backdrop-blur-md text-white border border-blue-500/50 p-3 rounded-lg shadow-xl text-sm animate-pulse cursor-pointer" 
+                style={{ top: "120%", right: 0, width: "max-content", maxWidth: "250px" }}
+              >
+                👋 Start Here! Watch the epic 12-ball climax!
+              </div>
+            )}
+          </div>
 
           <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
             <span
@@ -344,7 +366,16 @@ export default function Home() {
             </div>
 
             {/* Developer Controls */}
-            <div>
+            <div style={{ position: "relative" }}>
+              {showGuide && (
+                <div 
+                  onClick={() => setShowGuide(false)}
+                  className="absolute z-50 bg-slate-900/90 backdrop-blur-md text-white border border-blue-500/50 p-3 rounded-lg shadow-xl text-sm animate-pulse cursor-pointer" 
+                  style={{ bottom: "105%", left: "50%", transform: "translateX(-50%)", width: "max-content", maxWidth: "250px" }}
+                >
+                  🛠️ Or click these to simulate the match manually!
+                </div>
+              )}
               <div style={{ display: "flex", alignItems: "center", gap: "8px", marginBottom: "10px" }}>
                 <span className="font-mono" style={{ fontSize: "9px", color: "#1e3a5f", letterSpacing: "0.2em" }}>[ DEVELOPER CONTROLS ]</span>
                 <div style={{ flex: 1, height: "1px", background: "rgba(255,255,255,0.04)" }} />

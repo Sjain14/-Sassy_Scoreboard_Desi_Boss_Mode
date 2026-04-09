@@ -5,6 +5,13 @@
 
 ---
 
+## 🕹️ How to Use This Demo
+The system is built for rapid hackathon presentation:
+- **Option 1 (Recommended):** Click the glowing `▶ START 12-BALL CLIMAX` button at the top of the interface to watch a fully automated, narrative-driven simulation of the epic GT vs DC match finish.
+- **Option 2 (Interactive):** Scroll down to the `[ DEVELOPER CONTROLS ]` section and manually click "Hit a 6", "WICKET", etc., to see the AI dynamically evaluate the player's performance in real-time.
+
+---
+
 ## 🛑 The Problem
 Modern sports scoreboards are clinically boring. They show you numbers, strike rates, and graphs, but they completely ignore the most critical metric in franchise cricket: **The ROI (Return on Investment).** Nobody tells you that the player making ₹17 Crores just played a dot ball and is essentially stealing company time. 
 
@@ -33,6 +40,9 @@ API rate limits during your hackathon demo? Not an issue. Trigger the **12-Ball 
 
 ### 📱 Pulse-𝕏 Publishing
 A simulated automated social broadcasting engine. Every time a new AI roast is generated, the UI pulses with a "Live on 𝕏" badge, creating the ultimate illusion of an automated, trash-talking corporate Twitter account.
+
+### 🧭 Frictionless Onboarding Tooltips
+Transient, cache-aware UI guides that instantly direct first-time users to the interactive controls, ensuring the demo is completely self-explanatory within its first 5 seconds of loading.
 
 ---
 

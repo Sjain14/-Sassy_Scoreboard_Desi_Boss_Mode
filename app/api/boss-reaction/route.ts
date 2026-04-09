@@ -304,6 +304,14 @@ export async function POST(req: NextRequest) {
     requestBody = (await req.json()) as BossReactionRequest;
     const { playerName, playerPrice, runs, balls, lastAction } = requestBody;
 
+    // ── Kill Switch ──
+    if (process.env.USE_GEMINI !== "true") {
+      // Artificial Latency for the offline demo
+      await new Promise((resolve) => setTimeout(resolve, 800));
+      const fallback = getDynamicFallback(requestBody);
+      return NextResponse.json(fallback, { status: 200 });
+    }
+
     // ── Validate ──
     if (!playerName || playerPrice == null || runs == null || balls == null || !lastAction) {
       return NextResponse.json(
