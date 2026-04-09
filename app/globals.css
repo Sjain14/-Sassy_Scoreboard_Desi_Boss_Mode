@@ -1,0 +1,107 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─── Font variable bindings (set by next/font in layout.tsx) ─── */
+:root {
+  --font-display: var(--font-space-grotesk), sans-serif;
+  --font-mono:    var(--font-jetbrains-mono), monospace;
+  --font-body:    var(--font-inter), sans-serif;
+}
+
+/* ─── Base resets ─── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: #0a0a0f;
+  color: #e4e1e9;
+  font-family: var(--font-body);
+  overflow: hidden;
+}
+
+/* ─── Typography utility classes ─── */
+.font-display { font-family: var(--font-display); }
+.font-mono    { font-family: var(--font-mono) !important; }
+
+/* ─── Animations ─── */
+@keyframes pulse-live {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.4; }
+}
+.pulse-live { animation: pulse-live 1.2s ease-in-out infinite; }
+
+/* ─── Background ─── */
+.ambient-bg {
+  background:
+    radial-gradient(ellipse at 10% 0%, rgba(59, 130, 246, 0.07) 0%, transparent 55%),
+    radial-gradient(ellipse at 90% 0%, rgba(234, 179,   8, 0.06) 0%, transparent 55%),
+    #0a0a0f;
+}
+
+/* ─── Score glow ─── */
+.score-glow {
+  text-shadow:
+    0 0 20px rgba(59, 130, 246, 0.8),
+    0 0 40px rgba(59, 130, 246, 0.4),
+    0 0 80px rgba(59, 130, 246, 0.15);
+}
+
+/* ─── Glass card ─── */
+.card {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  backdrop-filter: blur(20px);
+}
+
+/* ─── Terminal buttons ─── */
+.btn-terminal {
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: #94a3b8;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 8px 4px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  border-radius: 0;
+}
+.btn-terminal:hover  { background: rgba(255, 255, 255, 0.06); border-color: rgba(255, 255, 255, 0.3); color: #e4e1e9; }
+.btn-terminal:active { transform: scale(0.97); }
+
+.btn-dot:hover    { border-color: #64748b; color: #94a3b8; }
+.btn-single:hover { border-color: #3b82f6; color: #3b82f6; box-shadow: 0 0 8px  rgba(59, 130, 246, 0.3); }
+.btn-four:hover   { border-color: #22c55e; color: #22c55e; box-shadow: 0 0 8px  rgba(34, 197,  94, 0.3); }
+.btn-six:hover    { border-color: #facc15; color: #facc15; box-shadow: 0 0 12px rgba(250, 204,  21, 0.4); }
+.btn-wicket:hover { border-color: #ef4444; color: #ef4444; box-shadow: 0 0 12px rgba(239,  68,  68, 0.4); }
+
+/* ─── Boss verdict box ─── */
+.verdict-box {
+  border: 1px solid rgba(245, 158, 11, 0.35);
+  background: rgba(245, 158, 11, 0.04);
+  box-shadow:
+    0 0 20px rgba(245, 158, 11, 0.08),
+    inset 0 0 20px rgba(245, 158, 11, 0.03);
+}
+
+/* ─── Boss cabin panel ─── */
+.boss-cabin {
+  background: #131a2e;
+  border-left: 2px solid #facc15;
+  box-shadow: -4px 0 30px rgba(250, 204, 21, 0.08);
+}
+
+/* ─── Scrollbar ─── */
+::-webkit-scrollbar          { width: 4px; }
+::-webkit-scrollbar-track    { background: transparent; }
+::-webkit-scrollbar-thumb    { background: rgba(255, 255, 255, 0.1); }

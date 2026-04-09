@@ -1,0 +1,2402 @@
+[
+  {
+    "innings": 1,
+    "over": 0,
+    "ball": 1,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "One run. Management is unimpressed but tolerant."
+  },
+  {
+    "innings": 1,
+    "over": 0,
+    "ball": 2,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Another predictable failure. Your replacement has already been onboarded."
+  },
+  {
+    "innings": 1,
+    "over": 0,
+    "ball": 3,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "A single. Don't let it go to your head."
+  },
+  {
+    "innings": 1,
+    "over": 0,
+    "ball": 4,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "A single. Don't let it go to your head."
+  },
+  {
+    "innings": 1,
+    "over": 0,
+    "ball": 5,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Adequate throughput. Maintain the SLA."
+  },
+  {
+    "innings": 1,
+    "over": 0,
+    "ball": 6,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "HR has scheduled a 1:1. Please ensure your camera is on."
+  },
+  {
+    "innings": 1,
+    "over": 1,
+    "ball": 1,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "Bare minimum achieved. Do not expect a promotion."
+  },
+  {
+    "innings": 1,
+    "over": 1,
+    "ball": 2,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "Finally, a positive ROI. Do it again."
+  },
+  {
+    "innings": 1,
+    "over": 1,
+    "ball": 3,
+    "runs": 5,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "Grudgingly impressed. Let's see if you can replicate it."
+  },
+  {
+    "innings": 1,
+    "over": 1,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "Zero output. Company billed crores for this dot ball. This meeting should have been an email."
+  },
+  {
+    "innings": 1,
+    "over": 1,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "HR has scheduled a 1:1. Please ensure your camera is on."
+  },
+  {
+    "innings": 1,
+    "over": 1,
+    "ball": 6,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "Acceptable deliverable. Barely."
+  },
+  {
+    "innings": 1,
+    "over": 2,
+    "ball": 1,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Axar Patel",
+    "ai_roast": "A single. Don't let it go to your head."
+  },
+  {
+    "innings": 1,
+    "over": 2,
+    "ball": 2,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Axar Patel",
+    "ai_roast": "Keep rotating strike. Don't try anything above your pay grade."
+  },
+  {
+    "innings": 1,
+    "over": 2,
+    "ball": 3,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Axar Patel",
+    "ai_roast": "Acceptable deliverable. Barely."
+  },
+  {
+    "innings": 1,
+    "over": 2,
+    "ball": 4,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Axar Patel",
+    "ai_roast": "Finally, a positive ROI. Do it again."
+  },
+  {
+    "innings": 1,
+    "over": 2,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Axar Patel",
+    "ai_roast": "Another predictable failure. Your replacement has already been onboarded."
+  },
+  {
+    "innings": 1,
+    "over": 2,
+    "ball": 6,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Axar Patel",
+    "ai_roast": "Acceptable deliverable. Barely."
+  },
+  {
+    "innings": 1,
+    "over": 3,
+    "ball": 1,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Adequate throughput. Maintain the SLA."
+  },
+  {
+    "innings": 1,
+    "over": 3,
+    "ball": 2,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Finally, a positive ROI. Do it again."
+  },
+  {
+    "innings": 1,
+    "over": 3,
+    "ball": 3,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "A single. Don't let it go to your head."
+  },
+  {
+    "innings": 1,
+    "over": 3,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Another predictable failure. Your replacement has already been onboarded."
+  },
+  {
+    "innings": 1,
+    "over": 3,
+    "ball": 5,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "One run. Management is unimpressed but tolerant."
+  },
+  {
+    "innings": 1,
+    "over": 3,
+    "ball": 6,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Notice period: activated. Good luck in your next role."
+  },
+  {
+    "innings": 1,
+    "over": 4,
+    "ball": 1,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Bare minimum achieved. Do not expect a promotion."
+  },
+  {
+    "innings": 1,
+    "over": 4,
+    "ball": 2,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Six runs. The line item is justified... for this ball only."
+  },
+  {
+    "innings": 1,
+    "over": 4,
+    "ball": 3,
+    "runs": 5,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Finally, a positive ROI. Do it again."
+  },
+  {
+    "innings": 1,
+    "over": 4,
+    "ball": 4,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Six runs. The line item is justified... for this ball only."
+  },
+  {
+    "innings": 1,
+    "over": 4,
+    "ball": 5,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Bare minimum achieved. Do not expect a promotion."
+  },
+  {
+    "innings": 1,
+    "over": 4,
+    "ball": 6,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Zero output. Company billed crores for this dot ball. This meeting should have been an email."
+  },
+  {
+    "innings": 1,
+    "over": 5,
+    "ball": 1,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "Your KPIs are in the red. This is not a performance review, it is a termination notice."
+  },
+  {
+    "innings": 1,
+    "over": 5,
+    "ball": 2,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "Bare minimum achieved. Do not expect a promotion."
+  },
+  {
+    "innings": 1,
+    "over": 5,
+    "ball": 3,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "If incompetence was a measurable metric, you'd be CEO by now."
+  },
+  {
+    "innings": 1,
+    "over": 5,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "If incompetence was a measurable metric, you'd be CEO by now."
+  },
+  {
+    "innings": 1,
+    "over": 5,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "If incompetence was a measurable metric, you'd be CEO by now."
+  },
+  {
+    "innings": 1,
+    "over": 5,
+    "ball": 6,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "A boundary. Acceptable output, but one quarterly result doesn't guarantee your retention."
+  },
+  {
+    "innings": 1,
+    "over": 6,
+    "ball": 1,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Axar Patel",
+    "ai_roast": "Your KPIs are in the red. This is not a performance review, it is a termination notice."
+  },
+  {
+    "innings": 1,
+    "over": 6,
+    "ball": 2,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Axar Patel",
+    "ai_roast": "Not bad. Your Q3 appraisal might mention this."
+  },
+  {
+    "innings": 1,
+    "over": 6,
+    "ball": 3,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Axar Patel",
+    "ai_roast": "Finally, a positive ROI. Do it again."
+  },
+  {
+    "innings": 1,
+    "over": 6,
+    "ball": 4,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Axar Patel",
+    "ai_roast": "Keep rotating strike. Don't try anything above your pay grade."
+  },
+  {
+    "innings": 1,
+    "over": 6,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Axar Patel",
+    "ai_roast": "The ROI on this delivery is physically painful to look at."
+  },
+  {
+    "innings": 1,
+    "over": 6,
+    "ball": 6,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Axar Patel",
+    "ai_roast": "A single. Don't let it go to your head."
+  },
+  {
+    "innings": 1,
+    "over": 7,
+    "ball": 1,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Keep rotating strike. Don't try anything above your pay grade."
+  },
+  {
+    "innings": 1,
+    "over": 7,
+    "ball": 2,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "You touched the ball. Wow. Should we throw a party?"
+  },
+  {
+    "innings": 1,
+    "over": 7,
+    "ball": 3,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Bare minimum achieved. Do not expect a promotion."
+  },
+  {
+    "innings": 1,
+    "over": 7,
+    "ball": 4,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "One run. Management is unimpressed but tolerant."
+  },
+  {
+    "innings": 1,
+    "over": 7,
+    "ball": 5,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Finally, a positive ROI. Do it again."
+  },
+  {
+    "innings": 1,
+    "over": 7,
+    "ball": 6,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Your KPIs are in the red. This is not a performance review, it is a termination notice."
+  },
+  {
+    "innings": 1,
+    "over": 8,
+    "ball": 1,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Another predictable failure. Your replacement has already been onboarded."
+  },
+  {
+    "innings": 1,
+    "over": 8,
+    "ball": 2,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Not bad. Your Q3 appraisal might mention this."
+  },
+  {
+    "innings": 1,
+    "over": 8,
+    "ball": 3,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Keep rotating strike. Don't try anything above your pay grade."
+  },
+  {
+    "innings": 1,
+    "over": 8,
+    "ball": 4,
+    "runs": 3,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "A single. Don't let it go to your head."
+  },
+  {
+    "innings": 1,
+    "over": 8,
+    "ball": 5,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Six runs. The line item is justified... for this ball only."
+  },
+  {
+    "innings": 1,
+    "over": 8,
+    "ball": 6,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Six runs. The line item is justified... for this ball only."
+  },
+  {
+    "innings": 1,
+    "over": 9,
+    "ball": 1,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "Another predictable failure. Your replacement has already been onboarded."
+  },
+  {
+    "innings": 1,
+    "over": 9,
+    "ball": 2,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "Grudgingly impressed. Let's see if you can replicate it."
+  },
+  {
+    "innings": 1,
+    "over": 9,
+    "ball": 3,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "Another predictable failure. Your replacement has already been onboarded."
+  },
+  {
+    "innings": 1,
+    "over": 9,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "The ROI on this delivery is physically painful to look at."
+  },
+  {
+    "innings": 1,
+    "over": 9,
+    "ball": 5,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "One run. Management is unimpressed but tolerant."
+  },
+  {
+    "innings": 1,
+    "over": 9,
+    "ball": 6,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "Wasting company time. Performance Improvement Plan is imminent..."
+  },
+  {
+    "innings": 1,
+    "over": 10,
+    "ball": 1,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Axar Patel",
+    "ai_roast": "Not bad. Your Q3 appraisal might mention this."
+  },
+  {
+    "innings": 1,
+    "over": 10,
+    "ball": 2,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Axar Patel",
+    "ai_roast": "A boundary. Acceptable output, but one quarterly result doesn't guarantee your retention."
+  },
+  {
+    "innings": 1,
+    "over": 10,
+    "ball": 3,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Axar Patel",
+    "ai_roast": "Your KPIs are in the red. This is not a performance review, it is a termination notice."
+  },
+  {
+    "innings": 1,
+    "over": 10,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Axar Patel",
+    "ai_roast": "Wasting company time. Performance Improvement Plan is imminent..."
+  },
+  {
+    "innings": 1,
+    "over": 10,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Axar Patel",
+    "ai_roast": "If incompetence was a measurable metric, you'd be CEO by now."
+  },
+  {
+    "innings": 1,
+    "over": 10,
+    "ball": 6,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Axar Patel",
+    "ai_roast": "Bare minimum achieved. Do not expect a promotion."
+  },
+  {
+    "innings": 1,
+    "over": 11,
+    "ball": 1,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Adequate throughput. Maintain the SLA."
+  },
+  {
+    "innings": 1,
+    "over": 11,
+    "ball": 2,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Your KPIs are in the red. This is not a performance review, it is a termination notice."
+  },
+  {
+    "innings": 1,
+    "over": 11,
+    "ball": 3,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "HR has scheduled a 1:1. Please ensure your camera is on."
+  },
+  {
+    "innings": 1,
+    "over": 11,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "HR has scheduled a 1:1. Please ensure your camera is on."
+  },
+  {
+    "innings": 1,
+    "over": 11,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "The ROI on this delivery is physically painful to look at."
+  },
+  {
+    "innings": 1,
+    "over": 11,
+    "ball": 6,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Notice period: activated. Good luck in your next role."
+  },
+  {
+    "innings": 1,
+    "over": 12,
+    "ball": 1,
+    "runs": 3,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Adequate throughput. Maintain the SLA."
+  },
+  {
+    "innings": 1,
+    "over": 12,
+    "ball": 2,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Adequate throughput. Maintain the SLA."
+  },
+  {
+    "innings": 1,
+    "over": 12,
+    "ball": 3,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Finally, a positive ROI. Do it again."
+  },
+  {
+    "innings": 1,
+    "over": 12,
+    "ball": 4,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Finally, a positive ROI. Do it again."
+  },
+  {
+    "innings": 1,
+    "over": 12,
+    "ball": 5,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Grudgingly impressed. Let's see if you can replicate it."
+  },
+  {
+    "innings": 1,
+    "over": 12,
+    "ball": 6,
+    "runs": 0,
+    "isWicket": true,
+    "striker": "David Miller",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Zero output. Company billed crores for this dot ball. This meeting should have been an email."
+  },
+  {
+    "innings": 1,
+    "over": 13,
+    "ball": 1,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "Keep rotating strike. Don't try anything above your pay grade."
+  },
+  {
+    "innings": 1,
+    "over": 13,
+    "ball": 2,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "A single. Don't let it go to your head."
+  },
+  {
+    "innings": 1,
+    "over": 13,
+    "ball": 3,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "If incompetence was a measurable metric, you'd be CEO by now."
+  },
+  {
+    "innings": 1,
+    "over": 13,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "Your KPIs are in the red. This is not a performance review, it is a termination notice."
+  },
+  {
+    "innings": 1,
+    "over": 13,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": true,
+    "striker": "Rashid Khan",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "Zero output. Company billed crores for this dot ball. This meeting should have been an email."
+  },
+  {
+    "innings": 1,
+    "over": 13,
+    "ball": 6,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "Adequate throughput. Maintain the SLA."
+  },
+  {
+    "innings": 1,
+    "over": 14,
+    "ball": 1,
+    "runs": 5,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Axar Patel",
+    "ai_roast": "Six runs. The line item is justified... for this ball only."
+  },
+  {
+    "innings": 1,
+    "over": 14,
+    "ball": 2,
+    "runs": 5,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Axar Patel",
+    "ai_roast": "Six runs. The line item is justified... for this ball only."
+  },
+  {
+    "innings": 1,
+    "over": 14,
+    "ball": 3,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Axar Patel",
+    "ai_roast": "One run. Management is unimpressed but tolerant."
+  },
+  {
+    "innings": 1,
+    "over": 14,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Axar Patel",
+    "ai_roast": "Wasting company time. Performance Improvement Plan is imminent..."
+  },
+  {
+    "innings": 1,
+    "over": 14,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Axar Patel",
+    "ai_roast": "Your KPIs are in the red. This is not a performance review, it is a termination notice."
+  },
+  {
+    "innings": 1,
+    "over": 14,
+    "ball": 6,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Axar Patel",
+    "ai_roast": "Notice period: activated. Good luck in your next role."
+  },
+  {
+    "innings": 1,
+    "over": 15,
+    "ball": 1,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Bare minimum achieved. Do not expect a promotion."
+  },
+  {
+    "innings": 1,
+    "over": 15,
+    "ball": 2,
+    "runs": 5,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "A boundary. Acceptable output, but one quarterly result doesn't guarantee your retention."
+  },
+  {
+    "innings": 1,
+    "over": 15,
+    "ball": 3,
+    "runs": 5,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Not bad. Your Q3 appraisal might mention this."
+  },
+  {
+    "innings": 1,
+    "over": 15,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Wasting company time. Performance Improvement Plan is imminent..."
+  },
+  {
+    "innings": 1,
+    "over": 15,
+    "ball": 5,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Six runs. The line item is justified... for this ball only."
+  },
+  {
+    "innings": 1,
+    "over": 15,
+    "ball": 6,
+    "runs": 0,
+    "isWicket": true,
+    "striker": "Shubman Gill",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "The ROI on this delivery is physically painful to look at."
+  },
+  {
+    "innings": 1,
+    "over": 16,
+    "ball": 1,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "You touched the ball. Wow. Should we throw a party?"
+  },
+  {
+    "innings": 1,
+    "over": 16,
+    "ball": 2,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Acceptable deliverable. Barely."
+  },
+  {
+    "innings": 1,
+    "over": 16,
+    "ball": 3,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "The ROI on this delivery is physically painful to look at."
+  },
+  {
+    "innings": 1,
+    "over": 16,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "If incompetence was a measurable metric, you'd be CEO by now."
+  },
+  {
+    "innings": 1,
+    "over": 16,
+    "ball": 5,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "A boundary. Acceptable output, but one quarterly result doesn't guarantee your retention."
+  },
+  {
+    "innings": 1,
+    "over": 16,
+    "ball": 6,
+    "runs": 5,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Khaleel Ahmed",
+    "ai_roast": "Grudgingly impressed. Let's see if you can replicate it."
+  },
+  {
+    "innings": 1,
+    "over": 17,
+    "ball": 1,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "HR has scheduled a 1:1. Please ensure your camera is on."
+  },
+  {
+    "innings": 1,
+    "over": 17,
+    "ball": 2,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "You touched the ball. Wow. Should we throw a party?"
+  },
+  {
+    "innings": 1,
+    "over": 17,
+    "ball": 3,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "Acceptable deliverable. Barely."
+  },
+  {
+    "innings": 1,
+    "over": 17,
+    "ball": 4,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "A single. Don't let it go to your head."
+  },
+  {
+    "innings": 1,
+    "over": 17,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "HR has scheduled a 1:1. Please ensure your camera is on."
+  },
+  {
+    "innings": 1,
+    "over": 17,
+    "ball": 6,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Mukesh Kumar",
+    "ai_roast": "Keep rotating strike. Don't try anything above your pay grade."
+  },
+  {
+    "innings": 1,
+    "over": 18,
+    "ball": 1,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Axar Patel",
+    "ai_roast": "Grudgingly impressed. Let's see if you can replicate it."
+  },
+  {
+    "innings": 1,
+    "over": 18,
+    "ball": 2,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Sai Sudharsan",
+    "bowler": "Axar Patel",
+    "ai_roast": "The ROI on this delivery is physically painful to look at."
+  },
+  {
+    "innings": 1,
+    "over": 18,
+    "ball": 3,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Axar Patel",
+    "ai_roast": "One run. Management is unimpressed but tolerant."
+  },
+  {
+    "innings": 1,
+    "over": 18,
+    "ball": 4,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Axar Patel",
+    "ai_roast": "Adequate throughput. Maintain the SLA."
+  },
+  {
+    "innings": 1,
+    "over": 18,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Axar Patel",
+    "ai_roast": "HR has scheduled a 1:1. Please ensure your camera is on."
+  },
+  {
+    "innings": 1,
+    "over": 18,
+    "ball": 6,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Shubman Gill",
+    "bowler": "Axar Patel",
+    "ai_roast": "Grudgingly impressed. Let's see if you can replicate it."
+  },
+  {
+    "innings": 1,
+    "over": 19,
+    "ball": 1,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Rashid Khan",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "One run. Management is unimpressed but tolerant."
+  },
+  {
+    "innings": 1,
+    "over": 19,
+    "ball": 2,
+    "runs": 0,
+    "isWicket": true,
+    "striker": "Sai Sudharsan",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "If incompetence was a measurable metric, you'd be CEO by now."
+  },
+  {
+    "innings": 1,
+    "over": 19,
+    "ball": 3,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Wasting company time. Performance Improvement Plan is imminent..."
+  },
+  {
+    "innings": 1,
+    "over": 19,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Zero output. Company billed crores for this dot ball. This meeting should have been an email."
+  },
+  {
+    "innings": 1,
+    "over": 19,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rahul Tewatia",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Wasting company time. Performance Improvement Plan is imminent..."
+  },
+  {
+    "innings": 1,
+    "over": 19,
+    "ball": 6,
+    "runs": 3,
+    "isWicket": false,
+    "striker": "David Miller",
+    "bowler": "Kuldeep Yadav",
+    "ai_roast": "Adequate throughput. Maintain the SLA."
+  },
+  {
+    "innings": 2,
+    "over": 0,
+    "ball": 1,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Rashid Khan",
+    "ai_roast": "If incompetence was a measurable metric, you'd be CEO by now."
+  },
+  {
+    "innings": 2,
+    "over": 0,
+    "ball": 2,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Notice period: activated. Good luck in your next role."
+  },
+  {
+    "innings": 2,
+    "over": 0,
+    "ball": 3,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Not bad. Your Q3 appraisal might mention this."
+  },
+  {
+    "innings": 2,
+    "over": 0,
+    "ball": 4,
+    "runs": 3,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Keep rotating strike. Don't try anything above your pay grade."
+  },
+  {
+    "innings": 2,
+    "over": 0,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": true,
+    "striker": "Tristan Stubbs",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Your KPIs are in the red. This is not a performance review, it is a termination notice."
+  },
+  {
+    "innings": 2,
+    "over": 0,
+    "ball": 6,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Not bad. Your Q3 appraisal might mention this."
+  },
+  {
+    "innings": 2,
+    "over": 1,
+    "ball": 1,
+    "runs": 0,
+    "isWicket": true,
+    "striker": "Axar Patel",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Wasting company time. Performance Improvement Plan is imminent..."
+  },
+  {
+    "innings": 2,
+    "over": 1,
+    "ball": 2,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "If incompetence was a measurable metric, you'd be CEO by now."
+  },
+  {
+    "innings": 2,
+    "over": 1,
+    "ball": 3,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Your KPIs are in the red. This is not a performance review, it is a termination notice."
+  },
+  {
+    "innings": 2,
+    "over": 1,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Your KPIs are in the red. This is not a performance review, it is a termination notice."
+  },
+  {
+    "innings": 2,
+    "over": 1,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Zero output. Company billed crores for this dot ball. This meeting should have been an email."
+  },
+  {
+    "innings": 2,
+    "over": 1,
+    "ball": 6,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Keep rotating strike. Don't try anything above your pay grade."
+  },
+  {
+    "innings": 2,
+    "over": 2,
+    "ball": 1,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "The ROI on this delivery is physically painful to look at."
+  },
+  {
+    "innings": 2,
+    "over": 2,
+    "ball": 2,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Finally, a positive ROI. Do it again."
+  },
+  {
+    "innings": 2,
+    "over": 2,
+    "ball": 3,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "A boundary. Acceptable output, but one quarterly result doesn't guarantee your retention."
+  },
+  {
+    "innings": 2,
+    "over": 2,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "The ROI on this delivery is physically painful to look at."
+  },
+  {
+    "innings": 2,
+    "over": 2,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Your KPIs are in the red. This is not a performance review, it is a termination notice."
+  },
+  {
+    "innings": 2,
+    "over": 2,
+    "ball": 6,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Another predictable failure. Your replacement has already been onboarded."
+  },
+  {
+    "innings": 2,
+    "over": 3,
+    "ball": 1,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "The ROI on this delivery is physically painful to look at."
+  },
+  {
+    "innings": 2,
+    "over": 3,
+    "ball": 2,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Grudgingly impressed. Let's see if you can replicate it."
+  },
+  {
+    "innings": 2,
+    "over": 3,
+    "ball": 3,
+    "runs": 3,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "You touched the ball. Wow. Should we throw a party?"
+  },
+  {
+    "innings": 2,
+    "over": 3,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Zero output. Company billed crores for this dot ball. This meeting should have been an email."
+  },
+  {
+    "innings": 2,
+    "over": 3,
+    "ball": 5,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "A boundary. Acceptable output, but one quarterly result doesn't guarantee your retention."
+  },
+  {
+    "innings": 2,
+    "over": 3,
+    "ball": 6,
+    "runs": 3,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Adequate throughput. Maintain the SLA."
+  },
+  {
+    "innings": 2,
+    "over": 4,
+    "ball": 1,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Notice period: activated. Good luck in your next role."
+  },
+  {
+    "innings": 2,
+    "over": 4,
+    "ball": 2,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Adequate throughput. Maintain the SLA."
+  },
+  {
+    "innings": 2,
+    "over": 4,
+    "ball": 3,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Acceptable deliverable. Barely."
+  },
+  {
+    "innings": 2,
+    "over": 4,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Wasting company time. Performance Improvement Plan is imminent..."
+  },
+  {
+    "innings": 2,
+    "over": 4,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Zero output. Company billed crores for this dot ball. This meeting should have been an email."
+  },
+  {
+    "innings": 2,
+    "over": 4,
+    "ball": 6,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Another predictable failure. Your replacement has already been onboarded."
+  },
+  {
+    "innings": 2,
+    "over": 5,
+    "ball": 1,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Grudgingly impressed. Let's see if you can replicate it."
+  },
+  {
+    "innings": 2,
+    "over": 5,
+    "ball": 2,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "HR has scheduled a 1:1. Please ensure your camera is on."
+  },
+  {
+    "innings": 2,
+    "over": 5,
+    "ball": 3,
+    "runs": 0,
+    "isWicket": true,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Your KPIs are in the red. This is not a performance review, it is a termination notice."
+  },
+  {
+    "innings": 2,
+    "over": 5,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Wasting company time. Performance Improvement Plan is imminent..."
+  },
+  {
+    "innings": 2,
+    "over": 5,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "The ROI on this delivery is physically painful to look at."
+  },
+  {
+    "innings": 2,
+    "over": 5,
+    "ball": 6,
+    "runs": 5,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Finally, a positive ROI. Do it again."
+  },
+  {
+    "innings": 2,
+    "over": 6,
+    "ball": 1,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "If incompetence was a measurable metric, you'd be CEO by now."
+  },
+  {
+    "innings": 2,
+    "over": 6,
+    "ball": 2,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "The ROI on this delivery is physically painful to look at."
+  },
+  {
+    "innings": 2,
+    "over": 6,
+    "ball": 3,
+    "runs": 0,
+    "isWicket": true,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "If incompetence was a measurable metric, you'd be CEO by now."
+  },
+  {
+    "innings": 2,
+    "over": 6,
+    "ball": 4,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "One run. Management is unimpressed but tolerant."
+  },
+  {
+    "innings": 2,
+    "over": 6,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Another predictable failure. Your replacement has already been onboarded."
+  },
+  {
+    "innings": 2,
+    "over": 6,
+    "ball": 6,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Zero output. Company billed crores for this dot ball. This meeting should have been an email."
+  },
+  {
+    "innings": 2,
+    "over": 7,
+    "ball": 1,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Your KPIs are in the red. This is not a performance review, it is a termination notice."
+  },
+  {
+    "innings": 2,
+    "over": 7,
+    "ball": 2,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Wasting company time. Performance Improvement Plan is imminent..."
+  },
+  {
+    "innings": 2,
+    "over": 7,
+    "ball": 3,
+    "runs": 3,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Adequate throughput. Maintain the SLA."
+  },
+  {
+    "innings": 2,
+    "over": 7,
+    "ball": 4,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Acceptable deliverable. Barely."
+  },
+  {
+    "innings": 2,
+    "over": 7,
+    "ball": 5,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Keep rotating strike. Don't try anything above your pay grade."
+  },
+  {
+    "innings": 2,
+    "over": 7,
+    "ball": 6,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "HR has scheduled a 1:1. Please ensure your camera is on."
+  },
+  {
+    "innings": 2,
+    "over": 8,
+    "ball": 1,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Not bad. Your Q3 appraisal might mention this."
+  },
+  {
+    "innings": 2,
+    "over": 8,
+    "ball": 2,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Grudgingly impressed. Let's see if you can replicate it."
+  },
+  {
+    "innings": 2,
+    "over": 8,
+    "ball": 3,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Rashid Khan",
+    "ai_roast": "The ROI on this delivery is physically painful to look at."
+  },
+  {
+    "innings": 2,
+    "over": 8,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Rashid Khan",
+    "ai_roast": "The ROI on this delivery is physically painful to look at."
+  },
+  {
+    "innings": 2,
+    "over": 8,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Zero output. Company billed crores for this dot ball. This meeting should have been an email."
+  },
+  {
+    "innings": 2,
+    "over": 8,
+    "ball": 6,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Rashid Khan",
+    "ai_roast": "A single. Don't let it go to your head."
+  },
+  {
+    "innings": 2,
+    "over": 9,
+    "ball": 1,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Bare minimum achieved. Do not expect a promotion."
+  },
+  {
+    "innings": 2,
+    "over": 9,
+    "ball": 2,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Wasting company time. Performance Improvement Plan is imminent..."
+  },
+  {
+    "innings": 2,
+    "over": 9,
+    "ball": 3,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Keep rotating strike. Don't try anything above your pay grade."
+  },
+  {
+    "innings": 2,
+    "over": 9,
+    "ball": 4,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Six runs. The line item is justified... for this ball only."
+  },
+  {
+    "innings": 2,
+    "over": 9,
+    "ball": 5,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Acceptable deliverable. Barely."
+  },
+  {
+    "innings": 2,
+    "over": 9,
+    "ball": 6,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Acceptable deliverable. Barely."
+  },
+  {
+    "innings": 2,
+    "over": 10,
+    "ball": 1,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Bare minimum achieved. Do not expect a promotion."
+  },
+  {
+    "innings": 2,
+    "over": 10,
+    "ball": 2,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Six runs. The line item is justified... for this ball only."
+  },
+  {
+    "innings": 2,
+    "over": 10,
+    "ball": 3,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Not bad. Your Q3 appraisal might mention this."
+  },
+  {
+    "innings": 2,
+    "over": 10,
+    "ball": 4,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "A boundary. Acceptable output, but one quarterly result doesn't guarantee your retention."
+  },
+  {
+    "innings": 2,
+    "over": 10,
+    "ball": 5,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Adequate throughput. Maintain the SLA."
+  },
+  {
+    "innings": 2,
+    "over": 10,
+    "ball": 6,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Six runs. The line item is justified... for this ball only."
+  },
+  {
+    "innings": 2,
+    "over": 11,
+    "ball": 1,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "A boundary. Acceptable output, but one quarterly result doesn't guarantee your retention."
+  },
+  {
+    "innings": 2,
+    "over": 11,
+    "ball": 2,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Another predictable failure. Your replacement has already been onboarded."
+  },
+  {
+    "innings": 2,
+    "over": 11,
+    "ball": 3,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Keep rotating strike. Don't try anything above your pay grade."
+  },
+  {
+    "innings": 2,
+    "over": 11,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "If incompetence was a measurable metric, you'd be CEO by now."
+  },
+  {
+    "innings": 2,
+    "over": 11,
+    "ball": 5,
+    "runs": 5,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Not bad. Your Q3 appraisal might mention this."
+  },
+  {
+    "innings": 2,
+    "over": 11,
+    "ball": 6,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Notice period: activated. Good luck in your next role."
+  },
+  {
+    "innings": 2,
+    "over": 12,
+    "ball": 1,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Rashid Khan",
+    "ai_roast": "If incompetence was a measurable metric, you'd be CEO by now."
+  },
+  {
+    "innings": 2,
+    "over": 12,
+    "ball": 2,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Your KPIs are in the red. This is not a performance review, it is a termination notice."
+  },
+  {
+    "innings": 2,
+    "over": 12,
+    "ball": 3,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Rashid Khan",
+    "ai_roast": "HR has scheduled a 1:1. Please ensure your camera is on."
+  },
+  {
+    "innings": 2,
+    "over": 12,
+    "ball": 4,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Not bad. Your Q3 appraisal might mention this."
+  },
+  {
+    "innings": 2,
+    "over": 12,
+    "ball": 5,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Acceptable deliverable. Barely."
+  },
+  {
+    "innings": 2,
+    "over": 12,
+    "ball": 6,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Rashid Khan",
+    "ai_roast": "A single. Don't let it go to your head."
+  },
+  {
+    "innings": 2,
+    "over": 13,
+    "ball": 1,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Acceptable deliverable. Barely."
+  },
+  {
+    "innings": 2,
+    "over": 13,
+    "ball": 2,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Keep rotating strike. Don't try anything above your pay grade."
+  },
+  {
+    "innings": 2,
+    "over": 13,
+    "ball": 3,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Zero output. Company billed crores for this dot ball. This meeting should have been an email."
+  },
+  {
+    "innings": 2,
+    "over": 13,
+    "ball": 4,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Not bad. Your Q3 appraisal might mention this."
+  },
+  {
+    "innings": 2,
+    "over": 13,
+    "ball": 5,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Adequate throughput. Maintain the SLA."
+  },
+  {
+    "innings": 2,
+    "over": 13,
+    "ball": 6,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Adequate throughput. Maintain the SLA."
+  },
+  {
+    "innings": 2,
+    "over": 14,
+    "ball": 1,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Another predictable failure. Your replacement has already been onboarded."
+  },
+  {
+    "innings": 2,
+    "over": 14,
+    "ball": 2,
+    "runs": 5,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Six runs. The line item is justified... for this ball only."
+  },
+  {
+    "innings": 2,
+    "over": 14,
+    "ball": 3,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Not bad. Your Q3 appraisal might mention this."
+  },
+  {
+    "innings": 2,
+    "over": 14,
+    "ball": 4,
+    "runs": 3,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "You touched the ball. Wow. Should we throw a party?"
+  },
+  {
+    "innings": 2,
+    "over": 14,
+    "ball": 5,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Adequate throughput. Maintain the SLA."
+  },
+  {
+    "innings": 2,
+    "over": 14,
+    "ball": 6,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "A boundary. Acceptable output, but one quarterly result doesn't guarantee your retention."
+  },
+  {
+    "innings": 2,
+    "over": 15,
+    "ball": 1,
+    "runs": 0,
+    "isWicket": true,
+    "striker": "Tristan Stubbs",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Your KPIs are in the red. This is not a performance review, it is a termination notice."
+  },
+  {
+    "innings": 2,
+    "over": 15,
+    "ball": 2,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Zero output. Company billed crores for this dot ball. This meeting should have been an email."
+  },
+  {
+    "innings": 2,
+    "over": 15,
+    "ball": 3,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "You touched the ball. Wow. Should we throw a party?"
+  },
+  {
+    "innings": 2,
+    "over": 15,
+    "ball": 4,
+    "runs": 5,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Grudgingly impressed. Let's see if you can replicate it."
+  },
+  {
+    "innings": 2,
+    "over": 15,
+    "ball": 5,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Notice period: activated. Good luck in your next role."
+  },
+  {
+    "innings": 2,
+    "over": 15,
+    "ball": 6,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Wasting company time. Performance Improvement Plan is imminent..."
+  },
+  {
+    "innings": 2,
+    "over": 16,
+    "ball": 1,
+    "runs": 0,
+    "isWicket": true,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Rashid Khan",
+    "ai_roast": "The ROI on this delivery is physically painful to look at."
+  },
+  {
+    "innings": 2,
+    "over": 16,
+    "ball": 2,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Rashid Khan",
+    "ai_roast": "A boundary. Acceptable output, but one quarterly result doesn't guarantee your retention."
+  },
+  {
+    "innings": 2,
+    "over": 16,
+    "ball": 3,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Rashid Khan",
+    "ai_roast": "If incompetence was a measurable metric, you'd be CEO by now."
+  },
+  {
+    "innings": 2,
+    "over": 16,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Zero output. Company billed crores for this dot ball. This meeting should have been an email."
+  },
+  {
+    "innings": 2,
+    "over": 16,
+    "ball": 5,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Rashid Khan",
+    "ai_roast": "A boundary. Acceptable output, but one quarterly result doesn't guarantee your retention."
+  },
+  {
+    "innings": 2,
+    "over": 16,
+    "ball": 6,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Rashid Khan",
+    "ai_roast": "Adequate throughput. Maintain the SLA."
+  },
+  {
+    "innings": 2,
+    "over": 17,
+    "ball": 1,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "A boundary. Acceptable output, but one quarterly result doesn't guarantee your retention."
+  },
+  {
+    "innings": 2,
+    "over": 17,
+    "ball": 2,
+    "runs": 0,
+    "isWicket": true,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Wasting company time. Performance Improvement Plan is imminent..."
+  },
+  {
+    "innings": 2,
+    "over": 17,
+    "ball": 3,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "A single. Don't let it go to your head."
+  },
+  {
+    "innings": 2,
+    "over": 17,
+    "ball": 4,
+    "runs": 5,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Not bad. Your Q3 appraisal might mention this."
+  },
+  {
+    "innings": 2,
+    "over": 17,
+    "ball": 5,
+    "runs": 3,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "One run. Management is unimpressed but tolerant."
+  },
+  {
+    "innings": 2,
+    "over": 17,
+    "ball": 6,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Mohit Sharma",
+    "ai_roast": "Six runs. The line item is justified... for this ball only."
+  },
+  {
+    "innings": 2,
+    "over": 18,
+    "ball": 1,
+    "runs": 1,
+    "isWicket": false,
+    "striker": "Rishabh Pant",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Bare minimum achieved. Do not expect a promotion."
+  },
+  {
+    "innings": 2,
+    "over": 18,
+    "ball": 2,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Your KPIs are in the red. This is not a performance review, it is a termination notice."
+  },
+  {
+    "innings": 2,
+    "over": 18,
+    "ball": 3,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "HR has scheduled a 1:1. Please ensure your camera is on."
+  },
+  {
+    "innings": 2,
+    "over": 18,
+    "ball": 4,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Wasting company time. Performance Improvement Plan is imminent..."
+  },
+  {
+    "innings": 2,
+    "over": 18,
+    "ball": 5,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Six runs. The line item is justified... for this ball only."
+  },
+  {
+    "innings": 2,
+    "over": 18,
+    "ball": 6,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Axar Patel",
+    "bowler": "Noor Ahmad",
+    "ai_roast": "Acceptable deliverable. Barely."
+  },
+  {
+    "innings": 2,
+    "over": 19,
+    "ball": 1,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Wasting company time. Performance Improvement Plan is imminent..."
+  },
+  {
+    "innings": 2,
+    "over": 19,
+    "ball": 2,
+    "runs": 4,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Not bad. Your Q3 appraisal might mention this."
+  },
+  {
+    "innings": 2,
+    "over": 19,
+    "ball": 3,
+    "runs": 0,
+    "isWicket": false,
+    "striker": "Tristan Stubbs",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Your KPIs are in the red. This is not a performance review, it is a termination notice."
+  },
+  {
+    "innings": 2,
+    "over": 19,
+    "ball": 4,
+    "runs": 2,
+    "isWicket": false,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "You touched the ball. Wow. Should we throw a party?"
+  },
+  {
+    "innings": 2,
+    "over": 19,
+    "ball": 5,
+    "runs": 6,
+    "isWicket": false,
+    "striker": "Jake Fraser-McGurk",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Not bad. Your Q3 appraisal might mention this."
+  },
+  {
+    "innings": 2,
+    "over": 19,
+    "ball": 6,
+    "runs": 0,
+    "isWicket": true,
+    "striker": "Kuldeep Yadav",
+    "bowler": "Umesh Yadav",
+    "ai_roast": "Notice period: activated. Good luck in your next role."
+  }
+]
