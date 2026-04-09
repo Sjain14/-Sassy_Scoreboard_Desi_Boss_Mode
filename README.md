@@ -13,7 +13,14 @@ Enter the **Sassy Scoreboard**. We ditched the traditional sports UI and rebuilt
 
 ---
 
-## ✨ Core Features
+## ✨ Feature Spotlight
+
+### 🛡️ Zero-Downtime Resilience Architecture
+Built to survive the chaos of live sports traffic, the Sassy Scoreboard integrates a sophisticated 'Corporate Continuity' layer to guarantee 100% uptime during API rate-limiting (429) or service outages (503):
+- **Deterministic Fallback Engine:** Guarantees 100% uptime by seamlessly intercepting external API failures and routing them to a local failover system.
+- **Human-Augmented Logic:** Ingests a library of 200+ unique, context-aware roasts that act as a high-fidelity buffer when the LLM is throttled.
+- **Sequential State Tracking:** Unlike simple randomizers, our engine tracks category-specific indices to ensure the Boss never repeats a roast consecutively, maintaining the illusion of live AI.
+- **Artificial Latency Simulation:** To maintain the 'Agentic Vibe', the fallback engine injects a 1.8s delay to mimic the token-generation time of a real LLM, ensuring a consistent user experience.
 
 ### 🏢 "The Boss's Cabin" (Real-Time AI Performance Reviews)
 Every delivery triggers a real-time AI evaluation using Google Gemini 1.5 Pro. The system analyzes the player's auction price, current strike rate, and ball outcome to generate a strictly unique, under-150-character corporate roast. Get ready for PIPs (Performance Improvement Plans) and instant terminations.
@@ -21,8 +28,8 @@ Every delivery triggers a real-time AI evaluation using Google Gemini 1.5 Pro. T
 ### 📉 ROI Meter
 A dynamic financial gauge measuring player value against their exorbitant auction price. Watch the meter fluctuate between "Acceptable Output" and "Notice Period Imminent" in real time as the innings progresses.
 
-### 🎭 "12-Ball Climax" (Narrative Demo Mode)
-API rate limits during your hackathon demo? Not an issue. Trigger the **12-Ball Climax Mode**—a pre-cached, offline simulation of the final two overs of the legendary GT vs DC (April 8, 2026) matchup where DC needs 36 off 12. Management is watching.
+### 🎭 "12-Ball Climax Demo" (Narrative-Driven Simulation)
+API rate limits during your hackathon demo? Not an issue. Trigger the **12-Ball Climax Demo**—a pre-cached, offline simulation of the final two overs of the legendary GT vs DC (April 8, 2026) matchup where DC needs 36 off 12. Management is watching.
 
 ### 📱 Pulse-𝕏 Publishing
 A simulated automated social broadcasting engine. Every time a new AI roast is generated, the UI pulses with a "Live on 𝕏" badge, creating the ultimate illusion of an automated, trash-talking corporate Twitter account.
@@ -40,6 +47,7 @@ We utilized the **F.L.O.W. Framework** (Frame, Layout, Orchestrate, World) along
 | **Styling** | Tailwind CSS & CSS Modules | Midnight Stadium aesthetics, glowing gradients, and glassmorphism. |
 | **Animation** | CSS Keyframes & Framer Motion | Micro-interactions, Pulse-𝕏 badges, and fluid layout shifts. |
 | **Brain** | Google Gemini 1.5 Pro API | Generating hyper-contextual, sarcastic corporate evaluations. |
+| **Resilience** | Custom State-Based Fallback Logic | Adaptive AI Simulation designed to seamlessly mask 429s/503s. |
 
 ---
 
@@ -70,5 +78,22 @@ We utilized the **F.L.O.W. Framework** (Frame, Layout, Orchestrate, World) along
 
 ---
 
+## 🚀 Future Roadmap: Q3 & Q4 Vision
+
+### Phase 2: Live Integration
+- **Real-Time Data Pipelines:** Migration from mock simulations to live, low-latency WebSocket connections via Cricbuzz/RapidAPI.
+- **Enterprise Notifications:** Integration with Slack and Microsoft Teams for 'Company-Wide Disciplinary Announcements' when a ₹15 Cr player plays a maiden over.
+- **Multi-Vertical Expansion:** Scaling the 'Boss Persona' to evaluate ROI for F1 (Driver vs. Constructor cost) and Football (Transfer Fee vs. Goals).
+
+### Phase 3: Hyper-Personalization
+- **Automated Social Broadcasting:** Direct API integration with 𝕏 (Twitter) and Threads to auto-publish roasts that tag the underperforming player's official handles.
+- **Generative Media Studio:** Using Stable Diffusion/Flux to auto-generate sarcastic 'Employee of the Month' (or 'Notice Period') memes after every wicket.
+- **The "Audit Report" PDF:** Automatic generation of 'Salary Deduction Invoices' and 'ROI Refund Requests' sent to the player's franchise management when ROI hits 0%.
+- **The Boss Everywhere (Browser Extension):** A floating 'Manager's Cabin' overlay that stays on your screen while you work, delivering roasts and live score updates in a discreet corporate window.
+
+---
+
 > *"Remember, luck is not a corporate strategy, but we will take the deliverable."* 
 > — **The Boss**
+
+**Transforming sports entertainment from a passive activity into a high-stakes corporate appraisal.**
