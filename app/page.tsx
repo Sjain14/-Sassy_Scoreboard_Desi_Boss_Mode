@@ -68,6 +68,8 @@ export default function Home() {
   }, []);
 
   // ── Zustand selectors ──
+  const teamBatting     = useGameStore((s) => s.teamBatting);
+  const innings         = useGameStore((s) => s.innings);
   const totalRuns       = useGameStore((s) => s.totalRuns);
   const totalWickets    = useGameStore((s) => s.totalWickets);
   const striker         = useGameStore((s) => s.striker);
@@ -95,6 +97,8 @@ export default function Home() {
   const bowlerEcon       = useGameStore((s) => s.bowlerEcon());
   const bowlerOvDisp     = useGameStore((s) => s.bowlerOversDisplay());
   const roiPercent       = useGameStore((s) => s.roiPercent());
+
+  const teamBattingInitials = teamBatting === "Delhi Capitals" ? "DC" : "GT";
 
   const playBall = useGameStore((s) => s.playBall);
 
@@ -207,7 +211,7 @@ export default function Home() {
               }}
             />
             <span className="font-mono" style={{ fontSize: "11px", fontWeight: 700, color: "#22c55e", letterSpacing: "0.12em" }}>
-              LIVE · 1ST INNINGS
+              LIVE · {innings === 1 ? "1ST INNINGS" : "2ND INNINGS"}
             </span>
           </div>
 
@@ -232,7 +236,7 @@ export default function Home() {
                 className="font-display score-glow"
                 style={{ fontSize: "clamp(72px, 9vw, 120px)", fontWeight: 900, color: "#3b82f6", lineHeight: 1, display: "block" }}
               >
-                DC {totalRuns}/{totalWickets}
+                {teamBattingInitials} {totalRuns}/{totalWickets}
               </span>
             </div>
 
@@ -241,7 +245,7 @@ export default function Home() {
               <span style={{ color: "#334155" }}>|</span>
               <span>CRR <span style={{ color: "#94a3b8" }}>{crr}</span></span>
               <span style={{ color: "#334155" }}>|</span>
-              <span>PROJ <span style={{ color: "#94a3b8" }}>{projectedScore}</span></span>
+              <span>{innings === 2 && targetValue ? "TARGET" : "PROJ"} <span style={{ color: "#94a3b8" }}>{innings === 2 && targetValue ? targetValue : projectedScore}</span></span>
             </div>
 
             {/* Batting Table */}
@@ -448,7 +452,7 @@ export default function Home() {
                   {striker.name}
                 </div>
                 <div className="font-mono" style={{ fontSize: "13px", fontWeight: 700, color: "#facc15", marginBottom: "6px" }}>
-                  Billed at ₹{striker.priceCr.toFixed(2)} Cr
+                  Billed at ₹{striker.priceCr ? striker.priceCr.toFixed(2) : "5.00"} Cr {!striker.priceCr ? "(Estimated)" : ""}
                 </div>
                 <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
                   <span style={{ padding: "2px 8px", background: "rgba(129,140,248,0.15)", border: "1px solid rgba(129,140,248,0.3)", fontSize: "10px" }} className="font-mono">

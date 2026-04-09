@@ -390,9 +390,14 @@ export const useGameStore = create<GameState>((set, get) => ({
 
   // ── PLAY BALL ──────────────────────────────────────────────────────────
   playBall: (outcome, autoplayRoast) => {
+    const current = get();
+    if (current.totalWickets >= 10 && outcome === "W") return; // cap wickets at 10
+    if (current.completedOvers >= 20) return; // Prevent playing balls after 20 overs
+    if (current.innings === 2 && current.target && current.totalRuns >= current.target) return; // match over
+
     // ── Phase 1: Synchronous state update ──
     // Capture the pre-update striker for the API call (on wicket, this is the outgoing batter)
-    const prevStriker = get().striker;
+    const prevStriker = current.striker;
 
     set((state) => {
       const runsScored = outcome === "W" ? 0 : parseInt(outcome);
@@ -495,9 +500,46 @@ export const useGameStore = create<GameState>((set, get) => ({
       };
       const newLogs = [newLog, ...state.logs].slice(0, 20);
 
+      // ── Innings swap & Match End checks ──
+      let switchInnings = false;
+      if (state.innings === 1 && (newTotalWickets >= 10 || newCompletedOvers >= 20)) {
+        switchInnings = true;
+      }
+
+      if (switchInnings) {
+        const battingRoster = getBattingRoster(state.teamBowling);
+        const bowlingRoster = getBattingRoster(state.teamBatting);
+        
+        return {
+          innings: 2,
+          teamBatting: state.teamBowling,
+          teamBowling: state.teamBatting,
+          totalRuns: 0,
+          totalWickets: 0,
+          completedOvers: 0,
+          ballsInCurrentOver: 0,
+          striker: { name: battingRoster[0].name, priceCr: battingRoster[0].price_cr, runs: 0, balls: 0, fours: 0, sixes: 0, isStriker: true },
+          nonStriker: { name: battingRoster[1].name, priceCr: battingRoster[1].price_cr, runs: 0, balls: 0, fours: 0, sixes: 0, isStriker: false },
+          bowler: { name: bowlingRoster[5].name, priceCr: bowlingRoster[5].price_cr, completedOvers: 0, ballsInOver: 0, runs: 0, wickets: 0 },
+          recentBalls: [],
+          partnershipRuns: 0,
+          partnershipBalls: 0,
+          lastWicketScore: "—",
+          lastWicketOver: "—",
+          bossEmotion: "smirk",
+          bossVerdict: "First innings complete. Let's see if you can chase this down or if I should call HR.",
+          bossLoading: false,
+          logs: newLogs,
+          battingBenchIndex: 2,
+          target: newTotalRuns + 1,
+        } as Partial<GameState>;
+      }
+
+      const matchEnded = state.innings === 2 && (newTotalWickets >= 10 || newCompletedOvers >= 20 || (state.target && newTotalRuns >= state.target));
+
       return {
         totalRuns: newTotalRuns,
-        totalWickets: newTotalWickets,
+        totalWickets: matchEnded && outcome === "W" && newTotalWickets > 10 ? 10 : newTotalWickets,
         completedOvers: newCompletedOvers,
         ballsInCurrentOver: newBallsInOver,
         striker: newStriker,
@@ -508,9 +550,9 @@ export const useGameStore = create<GameState>((set, get) => ({
         partnershipBalls: newPartnershipBalls,
         lastWicketScore: newLastWicketScore,
         lastWicketOver: newLastWicketOver,
-        bossEmotion: newEmotion,
-        bossVerdict: "Drafting an HR email...",
-        bossLoading: true,
+        bossEmotion: matchEnded ? (state.target && newTotalRuns >= state.target ? "happy" : "angry") : newEmotion,
+        bossVerdict: matchEnded ? (state.target && newTotalRuns >= state.target ? "MATCH WON. Enjoy your bonus." : "MATCH LOST. Pack your desk.") : "Drafting an HR email...",
+        bossLoading: !matchEnded,
         logs: newLogs,
         battingBenchIndex: newBenchIndex,
       };

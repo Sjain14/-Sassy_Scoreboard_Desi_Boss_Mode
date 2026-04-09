@@ -1,18 +1,21 @@
 {
   "Delhi Capitals": [
     { "name": "KL Rahul", "price_cr": 17.00, "role": "batter" },
+    { "name": "Rishabh Pant", "price_cr": 16.00, "role": "batter" },
     { "name": "Pathum Nissanka", "price_cr": 4.00, "role": "batter" },
     { "name": "Jake Fraser-McGurk", "price_cr": 9.00, "role": "batter" },
     { "name": "Axar Patel", "price_cr": 12.00, "role": "allrounder" },
     { "name": "Kuldeep Yadav", "price_cr": 13.25, "role": "bowler" },
-    { "name": "Mitchell Starc", "price_cr": 11.75, "role": "bowler" }
+    { "name": "Mitchell Starc", "price_cr": 24.50, "role": "bowler" }
   ],
   "Gujarat Titans": [
     { "name": "Shubman Gill", "price_cr": 16.50, "role": "batter" },
+    { "name": "David Miller", "price_cr": 12.00, "role": "batter" },
     { "name": "Rashid Khan", "price_cr": 18.00, "role": "allrounder" },
     { "name": "Jos Buttler", "price_cr": 15.75, "role": "batter" },
     { "name": "Kagiso Rabada", "price_cr": 10.75, "role": "bowler" },
     { "name": "Sai Sudharsan", "price_cr": 5.00, "role": "batter" },
-    { "name": "Mohammed Siraj", "price_cr": 12.25, "role": "bowler" }
+    { "name": "Mohammed Siraj", "price_cr": 12.25, "role": "bowler" },
+    { "name": "Vipraj Nigam", "price_cr": 2.00, "role": "bowler" }
   ]
 }
